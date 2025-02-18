@@ -1,5 +1,5 @@
 # pacscroll
-##Python utility to scroll important looking text
+## Python utility to scroll important looking text
 
 ---
 ## Run:
